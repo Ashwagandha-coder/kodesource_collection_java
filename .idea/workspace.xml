@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="ready seven task">
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/Eight.java" afterDir="false" />
+    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="ready Eight.java task">
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/Nine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/Ten.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +49,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Eight">
+  <component name="RunManager" selected="Application.Nine">
     <configuration name="Eight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayList.Eight" />
       <module name="kodesource_collection_java" />
@@ -74,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Four" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayList.Four" />
+    <configuration name="Nine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayList.Nine" />
       <module name="kodesource_collection_java" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Nine" />
         <item itemvalue="Application.Eight" />
         <item itemvalue="Application.Seven" />
         <item itemvalue="Application.Six" />
         <item itemvalue="Application.Five" />
-        <item itemvalue="Application.Four" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654154338222</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ready Eight.java task">
+      <created>1654154780972</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1654154780972</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,6 +212,7 @@
     <MESSAGE value="ready five task" />
     <MESSAGE value="ready six task" />
     <MESSAGE value="ready seven task" />
-    <option name="LAST_COMMIT_MESSAGE" value="ready seven task" />
+    <MESSAGE value="ready Eight.java task" />
+    <option name="LAST_COMMIT_MESSAGE" value="ready Eight.java task" />
   </component>
 </project>
