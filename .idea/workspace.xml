@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/One.java" afterDir="false" />
+    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="ready one task">
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/Two.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Two">
     <configuration name="One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayList.One" />
       <module name="kodesource_collection_java" />
@@ -55,8 +55,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayList.Two" />
+      <module name="kodesource_collection_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Two" />
         <item itemvalue="Application.One" />
       </list>
     </recent_temporary>
@@ -70,6 +84,14 @@
       <option name="presentableId" value="Default" />
       <updated>1654151232360</updated>
     </task>
+    <task id="LOCAL-00001" summary="ready one task">
+      <created>1654152114328</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654152114328</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,5 +104,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ready one task" />
+    <option name="LAST_COMMIT_MESSAGE" value="ready one task" />
   </component>
 </project>
