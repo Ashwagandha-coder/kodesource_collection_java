@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="ready Eleven task">
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/Twenty.java" afterDir="false" />
+    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="ready Twenty task">
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/Fifteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/Fourteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/Thirteen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +49,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Twenty">
-    <configuration name="Eight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayList.Eight" />
+  <component name="RunManager" selected="Application.Fourteen">
+    <configuration name="Eleven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayList.Eleven" />
       <module name="kodesource_collection_java" />
       <extension name="coverage">
         <pattern>
@@ -61,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Eleven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayList.Eleven" />
+    <configuration name="Fourteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayList.Fourteen" />
       <module name="kodesource_collection_java" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fourteen" />
         <item itemvalue="Application.Twenty" />
         <item itemvalue="Application.Eleven" />
         <item itemvalue="Application.Ten" />
         <item itemvalue="Application.Nine" />
-        <item itemvalue="Application.Eight" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654236440302</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="ready Twenty task">
+      <created>1654236793790</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1654236793790</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,6 +244,7 @@
     <MESSAGE value="ready Nine task" />
     <MESSAGE value="ready Ten task" />
     <MESSAGE value="ready Eleven task" />
-    <option name="LAST_COMMIT_MESSAGE" value="ready Eleven task" />
+    <MESSAGE value="ready Twenty task" />
+    <option name="LAST_COMMIT_MESSAGE" value="ready Twenty task" />
   </component>
 </project>
