@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="ready task ten LinkedList">
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/Nine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/Nine.java" afterDir="false" />
-    </list>
+    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="ready task nine LinkedList" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -293,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655197813293</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="ready task nine LinkedList">
+      <created>1655198144144</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1655198144144</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -331,6 +336,7 @@
     <MESSAGE value="ready task seven LinkedList" />
     <MESSAGE value="ready task eight LinkedList" />
     <MESSAGE value="ready task ten LinkedList" />
-    <option name="LAST_COMMIT_MESSAGE" value="ready task ten LinkedList" />
+    <MESSAGE value="ready task nine LinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="ready task nine LinkedList" />
   </component>
 </project>
