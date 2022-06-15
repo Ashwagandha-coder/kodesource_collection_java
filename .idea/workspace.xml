@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="add 10 files in HashSet">
-      <change beforePath="$PROJECT_DIR$/src/HashSet/One.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashSet/One.java" afterDir="false" />
+    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="one task ready HashSet">
+      <change beforePath="$PROJECT_DIR$/src/HashSet/Two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashSet/Two.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,7 @@
       <recent name="HashSet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.One">
+  <component name="RunManager" selected="Application.Two">
     <configuration name="Eight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinkedList.Eight" />
       <module name="kodesource_collection_java" />
@@ -92,19 +92,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Seven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.Seven" />
-      <module name="kodesource_collection_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Ten" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinkedList.Ten" />
       <module name="kodesource_collection_java" />
@@ -118,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashSet.Two" />
+      <module name="kodesource_collection_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HashSet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Two" />
         <item itemvalue="Application.One" />
         <item itemvalue="Application.Nine" />
         <item itemvalue="Application.Ten" />
         <item itemvalue="Application.Eight" />
-        <item itemvalue="Application.Seven" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655287321821</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="one task ready HashSet">
+      <created>1655287720550</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1655287720550</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -327,7 +334,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ready one task" />
     <MESSAGE value="ready two task" />
     <MESSAGE value="ready Three.java task" />
     <MESSAGE value="ready four task" />
@@ -352,6 +358,7 @@
     <MESSAGE value="ready task ten LinkedList" />
     <MESSAGE value="ready task nine LinkedList" />
     <MESSAGE value="add 10 files in HashSet" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 10 files in HashSet" />
+    <MESSAGE value="one task ready HashSet" />
+    <option name="LAST_COMMIT_MESSAGE" value="one task ready HashSet" />
   </component>
 </project>
