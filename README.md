@@ -9,3 +9,6 @@
 - LinkedList
 - HashSet
 - HashMap
+- TreeSet
+- TreeMap
+- PriorityQueue
