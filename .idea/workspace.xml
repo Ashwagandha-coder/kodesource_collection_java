@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="ready four task TreeSet">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/TreeSet/Five.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/TreeSet/Five.java" afterDir="false" />
+    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="ready five task TreeSet">
+      <change beforePath="$PROJECT_DIR$/src/Collections/TreeSet/Six.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/TreeSet/Six.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
       <recent name="HashSet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Five">
+  <component name="RunManager" selected="Application.Six">
     <configuration name="Five" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collections.TreeSet.Five" />
       <module name="kodesource_collection_java" />
@@ -81,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.TreeSet.One" />
+    <configuration name="Six" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.TreeSet.Six" />
       <module name="kodesource_collection_java" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Six" />
         <item itemvalue="Application.Five" />
         <item itemvalue="Application.Four" />
         <item itemvalue="Application.Three" />
         <item itemvalue="Application.Two" />
-        <item itemvalue="Application.One" />
       </list>
     </recent_temporary>
   </component>
@@ -398,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655369067993</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="ready five task TreeSet">
+      <created>1655370092296</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1655370092296</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -413,7 +419,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ready Fourteen.java task and add files" />
     <MESSAGE value="ready task one LinkedList" />
     <MESSAGE value="add files in Linked List" />
     <MESSAGE value="ready task two LinkedList" />
@@ -438,6 +443,7 @@
     <MESSAGE value="ready two task TreeSet" />
     <MESSAGE value="ready three task TreeSet" />
     <MESSAGE value="ready four task TreeSet" />
-    <option name="LAST_COMMIT_MESSAGE" value="ready four task TreeSet" />
+    <MESSAGE value="ready five task TreeSet" />
+    <option name="LAST_COMMIT_MESSAGE" value="ready five task TreeSet" />
   </component>
 </project>
