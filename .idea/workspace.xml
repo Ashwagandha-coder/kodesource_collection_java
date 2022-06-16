@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="ready one task TreeSet">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/TreeSet/Two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/TreeSet/Two.java" afterDir="false" />
+    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="ready two task TreeSet">
+      <change beforePath="$PROJECT_DIR$/src/Collections/TreeSet/Three.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/TreeSet/Three.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
       <recent name="HashSet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Two">
+  <component name="RunManager" selected="Application.Three">
     <configuration name="Collections.ArrayList.HashSet.Five" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collections.ArrayList.HashSet.Five" />
       <module name="kodesource_collection_java" />
@@ -81,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Collections.ArrayList.HashSet.Three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.ArrayList.HashSet.Three" />
+    <configuration name="One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.TreeSet.One" />
       <module name="kodesource_collection_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.ArrayList.HashSet.*" />
+          <option name="PATTERN" value="Collections.TreeSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.TreeSet.One" />
+    <configuration name="Three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.TreeSet.Three" />
       <module name="kodesource_collection_java" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Three" />
         <item itemvalue="Application.Two" />
         <item itemvalue="Application.One" />
         <item itemvalue="Application.Collections.ArrayList.HashSet.Five" />
         <item itemvalue="Application.Collections.ArrayList.HashSet.Four" />
-        <item itemvalue="Application.Collections.ArrayList.HashSet.Three" />
       </list>
     </recent_temporary>
   </component>
@@ -377,7 +376,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655367733934</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="ready two task TreeSet">
+      <created>1655368194046</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1655368194046</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -392,7 +398,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ready Ten task" />
     <MESSAGE value="ready Eleven task" />
     <MESSAGE value="ready Twenty task" />
     <MESSAGE value="ready Fourteen.java task and add files" />
@@ -417,6 +422,7 @@
     <MESSAGE value="add package tree set/map" />
     <MESSAGE value="add files in TreeSet" />
     <MESSAGE value="ready one task TreeSet" />
-    <option name="LAST_COMMIT_MESSAGE" value="ready one task TreeSet" />
+    <MESSAGE value="ready two task TreeSet" />
+    <option name="LAST_COMMIT_MESSAGE" value="ready two task TreeSet" />
   </component>
 </project>
