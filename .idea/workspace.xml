@@ -1,44 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="five task ready HashSet">
-      <change afterPath="$PROJECT_DIR$/src/Collections/HashMap/One.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/PriorityQueue/One.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList/Eight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/ArrayList/Eight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList/Eleven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/ArrayList/Eleven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList/Fifteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/ArrayList/Fifteen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList/Five.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/ArrayList/Five.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList/Four.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/ArrayList/Four.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList/Fourteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/ArrayList/Fourteen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList/Nine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/ArrayList/Nine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList/One.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/ArrayList/One.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList/Seven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/ArrayList/Seven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList/Six.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/ArrayList/Six.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList/Ten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/ArrayList/Ten.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList/Thirteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/ArrayList/Thirteen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList/Three.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/ArrayList/Three.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList/Twenty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/ArrayList/Twenty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayList/Two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/ArrayList/Two.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashSet/Eight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/HashSet/Eight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashSet/Five.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/HashSet/Five.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashSet/Four.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/HashSet/Four.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashSet/Nine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/HashSet/Nine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashSet/One.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/HashSet/One.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashSet/Seven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/HashSet/Seven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashSet/Six.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/HashSet/Six.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashSet/Ten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/HashSet/Ten.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashSet/Three.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/HashSet/Three.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashSet/Two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/HashSet/Two.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/Eight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/LinkedList/Eight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/Five.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/LinkedList/Five.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/Four.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/LinkedList/Four.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/Nine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/LinkedList/Nine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/One.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/LinkedList/One.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/Seven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/LinkedList/Seven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/Six.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/LinkedList/Six.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/Ten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/LinkedList/Ten.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/Three.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/LinkedList/Three.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/Two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/LinkedList/Two.java" afterDir="false" />
+    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="add package tree set/map">
+      <change afterPath="$PROJECT_DIR$/src/Collections/TreeSet/Eight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/TreeSet/Five.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/TreeSet/Four.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/TreeSet/Nine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/TreeSet/Seven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/TreeSet/Six.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/TreeSet/Ten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/TreeSet/Three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/TreeSet/Two.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +58,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Collections.TreeSet" />
       <recent name="HashSet" />
     </key>
   </component>
@@ -383,7 +357,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655288532951</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="refactoring and add package">
+      <created>1655289027543</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1655289027543</updated>
+    </task>
+    <task id="LOCAL-00032" summary="add package tree set/map">
+      <created>1655289122821</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1655289122821</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -398,8 +386,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ready six task" />
-    <MESSAGE value="ready seven task" />
     <MESSAGE value="ready Eight.java task" />
     <MESSAGE value="ready Nine task" />
     <MESSAGE value="ready Ten task" />
@@ -423,6 +409,8 @@
     <MESSAGE value="three task ready HashSet" />
     <MESSAGE value="four task ready HashSet" />
     <MESSAGE value="five task ready HashSet" />
-    <option name="LAST_COMMIT_MESSAGE" value="five task ready HashSet" />
+    <MESSAGE value="refactoring and add package" />
+    <MESSAGE value="add package tree set/map" />
+    <option name="LAST_COMMIT_MESSAGE" value="add package tree set/map" />
   </component>
 </project>
