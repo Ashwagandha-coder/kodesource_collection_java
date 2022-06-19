@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="ready task three PriorityQueue">
-      <change beforePath="$PROJECT_DIR$/src/Collections/PriorityQueue/Four.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/PriorityQueue/Four.java" afterDir="false" />
+    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="ready task four PriorityQueue">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collections/PriorityQueue/Three.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/PriorityQueue/Three.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +42,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "OverrideImplement.generate.javadoc": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Collections.PriorityQueue" />
@@ -54,7 +56,7 @@
       <recent name="HashSet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Four">
+  <component name="RunManager" selected="Application.Three">
     <configuration name="Four" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collections.PriorityQueue.Four" />
       <module name="kodesource_collection_java" />
@@ -122,8 +124,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Four" />
         <item itemvalue="Application.Three" />
+        <item itemvalue="Application.Four" />
         <item itemvalue="Application.Two" />
         <item itemvalue="Application.Task" />
         <item itemvalue="Application.One" />
@@ -454,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655627625629</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="ready task four PriorityQueue">
+      <created>1655627980287</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1655627980287</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -469,7 +478,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ready task seven LinkedList" />
     <MESSAGE value="ready task eight LinkedList" />
     <MESSAGE value="ready task ten LinkedList" />
     <MESSAGE value="ready task nine LinkedList" />
@@ -494,6 +502,7 @@
     <MESSAGE value="testing LinkedListQueue" />
     <MESSAGE value="ready task two PriorityQueue" />
     <MESSAGE value="ready task three PriorityQueue" />
-    <option name="LAST_COMMIT_MESSAGE" value="ready task three PriorityQueue" />
+    <MESSAGE value="ready task four PriorityQueue" />
+    <option name="LAST_COMMIT_MESSAGE" value="ready task four PriorityQueue" />
   </component>
 </project>
