@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="ready five task TreeSet">
-      <change beforePath="$PROJECT_DIR$/src/Collections/TreeSet/Six.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/TreeSet/Six.java" afterDir="false" />
+    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="ready six task TreeSet">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collections/PriorityQueue/One.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/PriorityQueue/One.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
       <recent name="HashSet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Six">
+  <component name="RunManager" selected="Application.One">
     <configuration name="Five" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collections.TreeSet.Five" />
       <module name="kodesource_collection_java" />
@@ -73,6 +74,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Collections.TreeSet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.PriorityQueue.One" />
+      <module name="kodesource_collection_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collections.PriorityQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,26 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.TreeSet.Two" />
-      <module name="kodesource_collection_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Collections.TreeSet.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.One" />
         <item itemvalue="Application.Six" />
         <item itemvalue="Application.Five" />
         <item itemvalue="Application.Four" />
         <item itemvalue="Application.Three" />
-        <item itemvalue="Application.Two" />
       </list>
     </recent_temporary>
   </component>
@@ -404,7 +405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655370092296</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="ready six task TreeSet">
+      <created>1655370731093</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1655370731093</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -419,7 +427,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ready task one LinkedList" />
     <MESSAGE value="add files in Linked List" />
     <MESSAGE value="ready task two LinkedList" />
     <MESSAGE value="ready task three LinkedList" />
@@ -444,6 +451,7 @@
     <MESSAGE value="ready three task TreeSet" />
     <MESSAGE value="ready four task TreeSet" />
     <MESSAGE value="ready five task TreeSet" />
-    <option name="LAST_COMMIT_MESSAGE" value="ready five task TreeSet" />
+    <MESSAGE value="ready six task TreeSet" />
+    <option name="LAST_COMMIT_MESSAGE" value="ready six task TreeSet" />
   </component>
 </project>
