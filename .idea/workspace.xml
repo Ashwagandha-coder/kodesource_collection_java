@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="add files PriorityQueue">
-      <change beforePath="$PROJECT_DIR$/src/Collections/PriorityQueue/One.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/PriorityQueue/One.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/PriorityQueue/Two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/PriorityQueue/Two.java" afterDir="false" />
+    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="refactoring">
+      <change afterPath="$PROJECT_DIR$/src/Collections/Queue/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,7 @@
       <recent name="HashSet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.One">
+  <component name="RunManager" selected="Application.Task">
     <configuration name="Five" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collections.TreeSet.Five" />
       <module name="kodesource_collection_java" />
@@ -108,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.TreeSet.Three" />
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.Queue.Task" />
       <module name="kodesource_collection_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.TreeSet.*" />
+          <option name="PATTERN" value="Collections.Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task" />
         <item itemvalue="Application.One" />
         <item itemvalue="Application.Six" />
         <item itemvalue="Application.Five" />
         <item itemvalue="Application.Four" />
-        <item itemvalue="Application.Three" />
       </list>
     </recent_temporary>
   </component>
@@ -427,7 +427,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655623715055</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="refactoring">
+      <created>1655624685779</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1655624685779</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -442,7 +449,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ready task three LinkedList" />
     <MESSAGE value="ready task four LinkedList" />
     <MESSAGE value="ready task five LinkedList" />
     <MESSAGE value="ready task six LinkedList" />
@@ -467,6 +473,7 @@
     <MESSAGE value="ready six task TreeSet" />
     <MESSAGE value="ready one task PriorityQueue" />
     <MESSAGE value="add files PriorityQueue" />
-    <option name="LAST_COMMIT_MESSAGE" value="add files PriorityQueue" />
+    <MESSAGE value="refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactoring" />
   </component>
 </project>
