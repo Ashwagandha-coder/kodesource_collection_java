@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="ready six task TreeSet">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="add files PriorityQueue">
       <change beforePath="$PROJECT_DIR$/src/Collections/PriorityQueue/One.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/PriorityQueue/One.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collections/PriorityQueue/Two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/PriorityQueue/Two.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Collections.PriorityQueue" />
       <recent name="Collections.TreeSet" />
       <recent name="HashSet" />
     </key>
@@ -412,7 +413,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655370731093</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="ready one task PriorityQueue">
+      <created>1655623512724</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1655623512724</updated>
+    </task>
+    <task id="LOCAL-00041" summary="add files PriorityQueue">
+      <created>1655623715055</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1655623715055</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -427,8 +442,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add files in Linked List" />
-    <MESSAGE value="ready task two LinkedList" />
     <MESSAGE value="ready task three LinkedList" />
     <MESSAGE value="ready task four LinkedList" />
     <MESSAGE value="ready task five LinkedList" />
@@ -452,6 +465,8 @@
     <MESSAGE value="ready four task TreeSet" />
     <MESSAGE value="ready five task TreeSet" />
     <MESSAGE value="ready six task TreeSet" />
-    <option name="LAST_COMMIT_MESSAGE" value="ready six task TreeSet" />
+    <MESSAGE value="ready one task PriorityQueue" />
+    <MESSAGE value="add files PriorityQueue" />
+    <option name="LAST_COMMIT_MESSAGE" value="add files PriorityQueue" />
   </component>
 </project>
