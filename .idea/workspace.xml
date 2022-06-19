@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="ready task two PriorityQueue">
-      <change beforePath="$PROJECT_DIR$/src/Collections/PriorityQueue/Three.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/PriorityQueue/Three.java" afterDir="false" />
+    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="ready task three PriorityQueue">
+      <change beforePath="$PROJECT_DIR$/src/Collections/PriorityQueue/Four.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/PriorityQueue/Four.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +54,9 @@
       <recent name="HashSet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Three">
-    <configuration name="One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.PriorityQueue.One" />
+  <component name="RunManager" selected="Application.Four">
+    <configuration name="Four" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.PriorityQueue.Four" />
       <module name="kodesource_collection_java" />
       <extension name="coverage">
         <pattern>
@@ -68,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Six" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.TreeSet.Six" />
+    <configuration name="One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.PriorityQueue.One" />
       <module name="kodesource_collection_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.TreeSet.*" />
+          <option name="PATTERN" value="Collections.PriorityQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Four" />
         <item itemvalue="Application.Three" />
         <item itemvalue="Application.Two" />
         <item itemvalue="Application.Task" />
         <item itemvalue="Application.One" />
-        <item itemvalue="Application.Six" />
       </list>
     </recent_temporary>
   </component>
@@ -447,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655627328230</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="ready task three PriorityQueue">
+      <created>1655627625629</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1655627625629</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -462,7 +469,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ready task six LinkedList" />
     <MESSAGE value="ready task seven LinkedList" />
     <MESSAGE value="ready task eight LinkedList" />
     <MESSAGE value="ready task ten LinkedList" />
@@ -487,6 +493,7 @@
     <MESSAGE value="refactoring" />
     <MESSAGE value="testing LinkedListQueue" />
     <MESSAGE value="ready task two PriorityQueue" />
-    <option name="LAST_COMMIT_MESSAGE" value="ready task two PriorityQueue" />
+    <MESSAGE value="ready task three PriorityQueue" />
+    <option name="LAST_COMMIT_MESSAGE" value="ready task three PriorityQueue" />
   </component>
 </project>
