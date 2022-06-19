@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="refactoring">
-      <change afterPath="$PROJECT_DIR$/src/Collections/Queue/Task.java" afterDir="false" />
+    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="testing LinkedListQueue">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collections/PriorityQueue/Two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/PriorityQueue/Two.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,22 +55,9 @@
       <recent name="HashSet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task">
+  <component name="RunManager" selected="Application.Two">
     <configuration name="Five" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collections.TreeSet.Five" />
-      <module name="kodesource_collection_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Collections.TreeSet.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Four" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.TreeSet.Four" />
       <module name="kodesource_collection_java" />
       <extension name="coverage">
         <pattern>
@@ -121,13 +108,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.PriorityQueue.Two" />
+      <module name="kodesource_collection_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collections.PriorityQueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Two" />
         <item itemvalue="Application.Task" />
         <item itemvalue="Application.One" />
         <item itemvalue="Application.Six" />
         <item itemvalue="Application.Five" />
-        <item itemvalue="Application.Four" />
       </list>
     </recent_temporary>
   </component>
@@ -434,7 +434,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655624685779</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="testing LinkedListQueue">
+      <created>1655625691737</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1655625691737</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -449,7 +456,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ready task four LinkedList" />
     <MESSAGE value="ready task five LinkedList" />
     <MESSAGE value="ready task six LinkedList" />
     <MESSAGE value="ready task seven LinkedList" />
@@ -474,6 +480,7 @@
     <MESSAGE value="ready one task PriorityQueue" />
     <MESSAGE value="add files PriorityQueue" />
     <MESSAGE value="refactoring" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactoring" />
+    <MESSAGE value="testing LinkedListQueue" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing LinkedListQueue" />
   </component>
 </project>
