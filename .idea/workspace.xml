@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="ready task four PriorityQueue">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/PriorityQueue/Three.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/PriorityQueue/Three.java" afterDir="false" />
+    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="done task hashset 7">
+      <change beforePath="$PROJECT_DIR$/src/Collections/HashSet/Eight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/HashSet/Eight.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +41,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "OverrideImplement.generate.javadoc": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;OverrideImplement.generate.javadoc&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Collections.PriorityQueue" />
@@ -56,13 +55,13 @@
       <recent name="HashSet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Three">
-    <configuration name="Four" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.PriorityQueue.Four" />
+  <component name="RunManager" selected="Application.Eight">
+    <configuration name="Eight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.HashSet.Eight" />
       <module name="kodesource_collection_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.PriorityQueue.*" />
+          <option name="PATTERN" value="Collections.HashSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.PriorityQueue.One" />
+    <configuration name="Fifteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.ArrayList.Fifteen" />
       <module name="kodesource_collection_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.PriorityQueue.*" />
+          <option name="PATTERN" value="Collections.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.Queue.Task" />
+    <configuration name="Seven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.HashSet.Seven" />
       <module name="kodesource_collection_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.Queue.*" />
+          <option name="PATTERN" value="Collections.HashSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.PriorityQueue.Three" />
+    <configuration name="Six" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.HashSet.Six" />
       <module name="kodesource_collection_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.PriorityQueue.*" />
+          <option name="PATTERN" value="Collections.HashSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.PriorityQueue.Two" />
+    <configuration name="Thirteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.ArrayList.Thirteen" />
       <module name="kodesource_collection_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.PriorityQueue.*" />
+          <option name="PATTERN" value="Collections.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Three" />
-        <item itemvalue="Application.Four" />
-        <item itemvalue="Application.Two" />
-        <item itemvalue="Application.Task" />
-        <item itemvalue="Application.One" />
+        <item itemvalue="Application.Eight" />
+        <item itemvalue="Application.Seven" />
+        <item itemvalue="Application.Six" />
+        <item itemvalue="Application.Fifteen" />
+        <item itemvalue="Application.Thirteen" />
       </list>
     </recent_temporary>
   </component>
@@ -140,20 +139,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654151232360</updated>
-    </task>
-    <task id="LOCAL-00001" summary="ready one task">
-      <created>1654152114328</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1654152114328</updated>
-    </task>
-    <task id="LOCAL-00002" summary="ready two task">
-      <created>1654152460877</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1654152460877</updated>
     </task>
     <task id="LOCAL-00003" summary="ready Three.java task">
       <created>1654152799378</created>
@@ -463,7 +448,42 @@
       <option name="project" value="LOCAL" />
       <updated>1655627980287</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="refactoring">
+      <created>1655629803896</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1655629803896</updated>
+    </task>
+    <task id="LOCAL-00048" summary="done task arraylist 13">
+      <created>1657992376666</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1657992376666</updated>
+    </task>
+    <task id="LOCAL-00049" summary="done task arraylist 15">
+      <created>1658039066313</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1658039066313</updated>
+    </task>
+    <task id="LOCAL-00050" summary="done task hashset 6">
+      <created>1658039349175</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1658039349190</updated>
+    </task>
+    <task id="LOCAL-00051" summary="done task hashset 7">
+      <created>1658039816454</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1658039816455</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -478,10 +498,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ready task eight LinkedList" />
-    <MESSAGE value="ready task ten LinkedList" />
-    <MESSAGE value="ready task nine LinkedList" />
-    <MESSAGE value="add 10 files in HashSet" />
     <MESSAGE value="one task ready HashSet" />
     <MESSAGE value="two task ready HashSet" />
     <MESSAGE value="three task ready HashSet" />
@@ -498,11 +514,15 @@
     <MESSAGE value="ready six task TreeSet" />
     <MESSAGE value="ready one task PriorityQueue" />
     <MESSAGE value="add files PriorityQueue" />
-    <MESSAGE value="refactoring" />
     <MESSAGE value="testing LinkedListQueue" />
     <MESSAGE value="ready task two PriorityQueue" />
     <MESSAGE value="ready task three PriorityQueue" />
     <MESSAGE value="ready task four PriorityQueue" />
-    <option name="LAST_COMMIT_MESSAGE" value="ready task four PriorityQueue" />
+    <MESSAGE value="refactoring" />
+    <MESSAGE value="done task arraylist 13" />
+    <MESSAGE value="done task arraylist 15" />
+    <MESSAGE value="done task hashset 6" />
+    <MESSAGE value="done task hashset 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="done task hashset 7" />
   </component>
 </project>
