@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="refactoring">
+    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="done task arraylist 13">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/ArrayList/Thirteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/ArrayList/Thirteen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collections/ArrayList/Fifteen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/ArrayList/Fifteen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +56,13 @@
       <recent name="HashSet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Thirteen">
-    <configuration name="Four" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.PriorityQueue.Four" />
+  <component name="RunManager" selected="Application.Fifteen">
+    <configuration name="Fifteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.ArrayList.Fifteen" />
       <module name="kodesource_collection_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.PriorityQueue.*" />
+          <option name="PATTERN" value="Collections.ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.Queue.Task" />
+    <configuration name="Four" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.PriorityQueue.Four" />
       <module name="kodesource_collection_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.Queue.*" />
+          <option name="PATTERN" value="Collections.PriorityQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fifteen" />
         <item itemvalue="Application.Thirteen" />
         <item itemvalue="Application.Three" />
         <item itemvalue="Application.Four" />
         <item itemvalue="Application.Two" />
-        <item itemvalue="Application.Task" />
       </list>
     </recent_temporary>
   </component>
@@ -470,7 +470,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655629803896</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="done task arraylist 13">
+      <created>1657992376666</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1657992376666</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -485,7 +492,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ready task eight LinkedList" />
     <MESSAGE value="ready task ten LinkedList" />
     <MESSAGE value="ready task nine LinkedList" />
     <MESSAGE value="add 10 files in HashSet" />
@@ -510,6 +516,7 @@
     <MESSAGE value="ready task three PriorityQueue" />
     <MESSAGE value="ready task four PriorityQueue" />
     <MESSAGE value="refactoring" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactoring" />
+    <MESSAGE value="done task arraylist 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="done task arraylist 13" />
   </component>
 </project>
