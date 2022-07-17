@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="done task arraylist 15">
-      <change beforePath="$PROJECT_DIR$/src/Collections/HashSet/Six.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/HashSet/Six.java" afterDir="false" />
+    <list default="true" id="4cf7b46e-fcc7-43f4-8fb6-a906ef3da6c2" name="Changes" comment="done task hashset 6">
+      <change beforePath="$PROJECT_DIR$/src/Collections/HashSet/Seven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/HashSet/Seven.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,7 @@
       <recent name="HashSet" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Six">
+  <component name="RunManager" selected="Application.Seven">
     <configuration name="Fifteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collections.ArrayList.Fifteen" />
       <module name="kodesource_collection_java" />
@@ -69,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Four" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.PriorityQueue.Four" />
+    <configuration name="Seven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.HashSet.Seven" />
       <module name="kodesource_collection_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collections.PriorityQueue.*" />
+          <option name="PATTERN" value="Collections.HashSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Seven" />
         <item itemvalue="Application.Six" />
         <item itemvalue="Application.Fifteen" />
         <item itemvalue="Application.Thirteen" />
         <item itemvalue="Application.Three" />
-        <item itemvalue="Application.Four" />
       </list>
     </recent_temporary>
   </component>
@@ -139,13 +139,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654151232360</updated>
-    </task>
-    <task id="LOCAL-00001" summary="ready one task">
-      <created>1654152114328</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1654152114328</updated>
     </task>
     <task id="LOCAL-00002" summary="ready two task">
       <created>1654152460877</created>
@@ -483,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658039066313</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="done task hashset 6">
+      <created>1658039349175</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1658039349190</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -498,7 +498,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ready task nine LinkedList" />
     <MESSAGE value="add 10 files in HashSet" />
     <MESSAGE value="one task ready HashSet" />
     <MESSAGE value="two task ready HashSet" />
@@ -523,6 +522,7 @@
     <MESSAGE value="refactoring" />
     <MESSAGE value="done task arraylist 13" />
     <MESSAGE value="done task arraylist 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="done task arraylist 15" />
+    <MESSAGE value="done task hashset 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="done task hashset 6" />
   </component>
 </project>
